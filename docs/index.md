@@ -14,7 +14,7 @@ hero:
  - A copy of KaiHEN
 
 # List
-| Name                       | Open Source                                                                | Download | Category      | Author                       | Type        |
+| Name                       | Open Source                                                                | Download | Category      | Author                       [...]
 |----------------------------|----------------------------------------------------------------------------|----------|---------------|------------------------------|-------------|
 | OunceShell                 | [Yes](https://github.com/kurumuz/ounceshell/)                              | Bundled  | Tools         | kurumuz, TheFl0W             | Application |
 | 90DNS Tester               | [Yes](https://github.com/souldbminerr/90DNS-Tester)                        | GitHub   | Tools         | Souldbminer                  | Application |
@@ -28,15 +28,15 @@ hero:
 | xStarbound                 | [Yes](https://github.com/Sergaliciousnes/xStarbound-Switch2)               | GitHub   | Games         | Sergalicious                 | Application |
 | Super Mario 64 EX          | [Yes](https://github.com/NerdsMcGee/sm64ex-alo-s2)                         | GitHub   | Games         | NerdsMcGee                   | Application |
 | Sonic 3 AIR                | [Yes](https://github.com/NerdsMcGee/sonic3air-s2)                          | GitHub   | Games         | NerdsMcGee                   | Application |
-| Sonic Robo Blast 2         | [Yes](https://github.com/misshexa66/SRB2-Ounce)                            | GitHub                                                | Games    | Sonic Team Junior, Hexa      | Application |
-| Dr. Robotnik's Ring Racers | [Yes](https://github.com/misshexa66/RingRacers-Ounce)                      | GitHub                                                | Games    | Kart Krew, Hexa              | Application |
+| Sonic Robo Blast 2         | [Yes](https://github.com/misshexa66/SRB2-Ounce)                            | GitHub                                                | Games    | Sonic Team Junior, He[...]
+| Dr. Robotnik's Ring Racers | [Yes](https://github.com/misshexa66/RingRacers-Ounce)                      | GitHub                                                | Games    | Kart Krew, Hexa      [...]
 | UnleashedRecomp            | [Yes](https://github.com/Lightmaxifrvr/UnleashedRecomp-NX2)                | GitGub   | Games         | Lightmaxifrvr, hedge-dev and more | Application |
 | pokeplatinum               | [Yes](https://github.com/cybervisi0n/pokeplatinum)                         | GitHub   | Games         | cybervisi0n                  | Application |
 | Dusklight                  | [Yes](https://github.com/wowilookgood/dusklight)                           | GitHub   | Games         | wowilookgood, Twilit Realm   | Application |
 | Nic Cage Eats Stuff        | [Yes](https://github.com/PennyLoafer5/nces-switch2)                        | GitHub   | Games         | PennyLoafer, Cart1416        | Games |
 | Angry Birds Reloaded       | [Yes](https://github.com/githubuser77777/abreloaded_nx2)                   | GitHub   | Games         | githubuser77777              | Application |
 | OpenRCT2                   | [Yes](https://github.com/souldbminerr/OpenRCT2-Switch)                     | GitHub   | Games         | Souldbminer and Wander_Eule  | Application |
-| Friday Night Funkin'       | [Yes](https://github.com/TheAJLive/Funkin-NX2)                             | GitHub   | Games         | Funkin' Crew, leleletus, TheAJLive | Application |
+| Friday Night Funkin'       | [Yes](https://github.com/TheAJLive/Funkin-NX2)                             | GitHub   | Games         | TheAJLive | Application |
 | Chiaki-ng/Akira            | [Yes](https://github.com/chiaki-ng/akira-ounce)                            | GitHub   | Streaming     | xlanor, streetpea, kkwong, and others | Application |
 | Moonlight                  | [Yes](https://gitlab.com/Azkali/moonlight-nx2)                             | GitLab   | Streaming     | Azkali                      | Application |
 | RetroArch                  | [Yes](https://github.com/NerdsMcGee/retroarch-s2)                          | GitHub   | Emulation     | NerdsMcGee, libretro         | Application |
